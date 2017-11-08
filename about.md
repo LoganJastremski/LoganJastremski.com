@@ -4,43 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Logan has spearheaded multiple initiatives on Indiana University Campus, founding Product Management Club, Creating a new course I-400 (Product Management), and leading his latest venture in a technology startup Path to Product Management. He has lead numerous presentations on campus to hundreds of prospective Product Managers across multiple disciplines before he is expected to graduate in August 2018 from Indiana University with a BS in Informatics and Computer Science.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>In the past, he worked at JP Morgan Chase as a Software Engineering Intern operating on high impact projects leading from the front-line working with cross-functional teams to approve MVP and achieve alignment with all stakeholders. He's currently working with Indiana University's Assistant Dean for Innovation, Entrepreneurship, & Commercialization, Professor Travis Brown to create a brand new Undergraduate course on Product Management.  The Product Management club he founded regularly holds events for students to learn more about the role and provided real-world opportunities to learn the role. His Startup Path to Product Management is currently in the works and hopes to provide a diverse community of college students to help promote communal learning, showcase internship opportunities, and provide a platform with a supportive network to immerse within.</p>
 
-<h2>Skills</h2>
+<p>Business and technology aren't the only things he'a passionate about. After he had trained countless hours in High School, Logan was able to achieve All-American status in the pool. This lead to be recruited to University of Utah and eventually Indiana University his hometown. He is vastly competitive and is always seeking out new challenges.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>Logan focuses on building products and services that live at the intersection of great design, innovative technology, and smart business. He wants to enhance as many people’s lives as possible.</p>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
