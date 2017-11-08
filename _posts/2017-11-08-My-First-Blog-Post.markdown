@@ -1,5 +1,5 @@
 ---
-title: "Markdown Common Elements"
+title: "First Blog"
 layout: post
 date: 2017-11-08 12:28
 image: /assets/images/markdown.jpg
