@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://LoganJastremski.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -101,5 +101,5 @@ plugins:
   - jemoji
   - jekyll-admin
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+ #   base_url: https://github.com
