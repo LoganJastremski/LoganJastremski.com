@@ -26,7 +26,7 @@ Each semester Indiana University's School of Informatics, Computing, and Enginee
 
 
 
-### Comum Elements
+### Research Elements
 - [Absract](#Absract)
 - [Background](#Background)
 - [Methodologies](#Methodologies)
@@ -62,13 +62,44 @@ ple: If state A was a NOUN what would the probability that state
 B would be a VERB or vice versa. In this model the system in
 state A is used to help the system transition to state B in order to
 predict the next part-of-speech in the sentence . Using this statis-
-tical and probabilistic approach the computer is able to mathe-
-matically equate the probability of the part-of-speech in sen-
-tence structures.
+tical and probabilistic approach the computer is able to mathematically
+ equate the probability of the part-of-speech in sentence structures.
+
+ ---
+
+ ## Methodologies
 
 
+ <div class="side-by-side">
+    <div class="toleft">
+        ![Markdowm Image][3]
+    </div>
+
+    <div class="toright">
+       ![Markdowm Image][4]
+    </div>
+</div>
+
+* DATASETS
+	Each algorithm is trained on a file with over 44,204 sentences in
+the total data set. After the file has learned from the training set it
+is tested on 2,000 sentences with 29,442 words.
+
+* NAIVE
+	In example (b) the Naive algorithm only looks at the single word
+to predict It its part of speech. If it hasn’t seen the word before in
+the dataset it makes a high probability guess on what it could be.
+
+* VITERBI
+
+In example (a) the Viterbi algorithm looks to the previous state in the
+Markov Chain. With the ability to look at the last state in the sentence
+structure this algorithm has a higher probability of accurately predict-
+ing the part of speech.
 
 
 
 [1]: https://loganjastremski.com/assets/images/blog/MachineLearningPoster.png
 [2]: https://loganjastremski.com/assets/images/blog/MC.png
+[3]: https://loganjastremski.com/assets/images/blog/VITERBI.png
+[4]: https://loganjastremski.com/assets/images/blog/NAIVE.png
