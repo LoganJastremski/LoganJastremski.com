@@ -71,4 +71,4 @@ tence structures.
 
 
 [1]: https://loganjastremski.com/assets/images/MLP.pdf
-[1]: https://loganjastremski.com/assets/images/MC.png
+[2]: https://loganjastremski.com/assets/images/MC.png
