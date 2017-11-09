@@ -6,7 +6,7 @@ tag:
 - NLP
 - Machine Learning
 - Research
-image: https://loganjastremski.com/assets/images/IULogo.png 
+image: https://loganjastremski.com/assets/images/blog/IULogo.png 
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -70,5 +70,5 @@ tence structures.
 
 
 
-[1]: https://loganjastremski.com/assets/images/MLP.pdf
-[2]: https://loganjastremski.com/assets/images/MC.png
+[1]: https://loganjastremski.com/assets/images/blog/MachineLearningPoster.png
+[2]: https://loganjastremski.com/assets/images/blog/MC.png
