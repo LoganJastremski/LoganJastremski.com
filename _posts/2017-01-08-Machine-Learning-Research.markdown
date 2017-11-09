@@ -95,5 +95,33 @@ ing the part of speech.
 
 ---
 
+## Results
+
+When looking at the results from the dataset with can see the Viterbi is
+on average about 10% better at predicting the part of speech in sentence
+ structure than the Naive algorithm. This is inline with the hypothesis
+ that Viterbi would perform better because the algorithm is structured
+in such a way that the model had the ability to learn and predict more
+accurately based on the pervious word in the sentence structure.
+
+![Markdowm Image][3]
+
+---
+
+## Conclusion
+
+Natural language processing (NLP) will continue to be at the forefront of
+the Artificial intelligence community for some time. While the Ultimate
+goal of having an algorithm be able to fully understand human speech
+has been continuing to improve since the 1950’s we still have a ways to
+go. By moving to statistical and probabilistic approach we are able to
+more accurately able to teach computers to pick the correct
+part-of-speech in single words and in full sentence structures. Improving
+part-of-speech recognition is vital to continuing to advance these natural
+language processing algorithms. Hopefully in the near future we’ll be
+able to have intelligent, intuitive, and easy to use applications that allow
+humans and computer to effective communicate.
+
 [1]: https://loganjastremski.com/assets/images/blog/MachineLearningPoster.png
 [2]: https://loganjastremski.com/assets/images/blog/MC.png
+[3]: https://loganjastremski.com/assets/images/blog/Results.png
