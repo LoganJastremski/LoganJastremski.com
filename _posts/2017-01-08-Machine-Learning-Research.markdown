@@ -67,39 +67,33 @@ tical and probabilistic approach the computer is able to mathematically
 
  ---
 
- ## Methodologies
+## Methodologies
 
 
  <div class="side-by-side">
     <div class="toleft">
-        ![Markdowm Image][3]
+        <img src="https://loganjastremski.com/assets/images/blog/VITERBI.png" alt="VITERBI">
     </div>
 
     <div class="toright">
-       ![Markdowm Image][4]
+       <img src="https://loganjastremski.com/assets/images/blog/NAIVE.png" alt="NAIVE">
     </div>
 </div>
 
-* DATASETS
-	Each algorithm is trained on a file with over 44,204 sentences in
+* **DATASETS** - Each algorithm is trained on a file with over 44,204 sentences in
 the total data set. After the file has learned from the training set it
 is tested on 2,000 sentences with 29,442 words.
 
-* NAIVE
-	In example (b) the Naive algorithm only looks at the single word
+* **NAIVE** -In example (b) the Naive algorithm only looks at the single word
 to predict It its part of speech. If it hasn’t seen the word before in
 the dataset it makes a high probability guess on what it could be.
 
-* VITERBI
-
-In example (a) the Viterbi algorithm looks to the previous state in the
+* **VITERBI** - In example (a) the Viterbi algorithm looks to the previous state in the
 Markov Chain. With the ability to look at the last state in the sentence
 structure this algorithm has a higher probability of accurately predict-
 ing the part of speech.
 
-
+---
 
 [1]: https://loganjastremski.com/assets/images/blog/MachineLearningPoster.png
 [2]: https://loganjastremski.com/assets/images/blog/MC.png
-[3]: https://loganjastremski.com/assets/images/blog/VITERBI.png
-[4]: https://loganjastremski.com/assets/images/blog/NAIVE.png
