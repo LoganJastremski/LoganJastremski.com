@@ -27,11 +27,11 @@ Each semester Indiana University's School of Informatics, Computing, and Enginee
 
 
 ### Research Elements
-- [Absract](#Absract)
-- [Background](#Background)
-- [Methodologies](#Methodologies)
-- [Results](#Results)
-- [Conclusion](#Conclusion)
+- [Absract](#absract)
+- [Background](#background)
+- [Methodologies](#methodologies)
+- [Results](#results)
+- [Conclusion](#conclusion)
 
 ---
 
