@@ -16,6 +16,22 @@ author: loganjastremski
 externalLink: false
 ---
 
-Our Vision - " At [Path to Product Management](http://pathtopm.com) our goal is to create a diverse community of college students to promote communal learning, showcase internship opportunities, and provide a platform with a supportive network to immerse within."
+## Summary:
+Each semester Indiana University's School of Informatics, Computing, and Engineering sponsors research experience program for undergraduate majors, only a handful of students who apply for this opportunity are selected per semester. I was selected on my exemplary application to work one on one with a faculty mentor on Natural Language Processing using Machine Learning of the Bayesian Network Models. This opportunity gave be me valuable hands-on research experience with some of the leading experts in the field.
 
-Check back later for a update once we have our Community live!
+{% highlight raw %}
+![Markdowm Image][https://loganjastremski.com/assets/images/MLP.pdf]
+<figcaption class="caption">Poster Presentation to Indiana University Research</figcaption>
+{% endhighlight %}
+
+### Comum Elements
+- [Absract](#Absract)
+- [Background](#Background)
+- [Methodologies](#Methodologies)
+- [Results](#Results)
+- [Conclusion](#Conclusion)
+
+
+
+
+
