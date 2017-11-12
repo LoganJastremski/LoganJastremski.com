@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - First Blog
 - intro
-star: true
+star: false
 category: blog
 author: loganjastremski
 description: My first Blog Post

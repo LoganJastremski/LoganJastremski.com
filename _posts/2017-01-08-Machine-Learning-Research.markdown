@@ -17,7 +17,7 @@ externalLink: false
 ---
 
 ## Summary:
-Each semester Indiana University's School of Informatics, Computing, and Engineering sponsors research experience program for undergraduate majors, only a handful of students who apply for this opportunity are selected per semester. I was selected on my exemplary application to work one on one with a faculty mentor on Natural Language Processing using Machine Learning of the Bayesian Network Models. This opportunity gave be me valuable hands-on research experience with some of the leading experts in the field.
+Each semester Indiana University's School of Informatics, Computing, and Engineering sponsors research experience program for undergraduate majors, only a handful of students who apply for this opportunity are selected per semester. I was selected on my exemplary application to work one on one with a faculty mentor on Natural Language Processing using Machine Learning of the Bayesian Network Models. This opportunity gave be me valuable, hands-on research experience with some of the leading experts in the field.
 
 
 ![Markdowm Image][1]
