@@ -24,7 +24,6 @@ externalLink: false
 <li>To help students get a job in Product Management, and find a community of like-minded individuals.</li>
 <li>School: Acts as the seed for a environment entrepreneurship, dynamic intellectualism, and diversity. </li>
 </ul>
-<br>
 
 #### Long term goals Goals:
 <ul>
