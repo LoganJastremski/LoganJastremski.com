@@ -6,9 +6,7 @@ tag:
 - Product Management
 - College
 - Startup
-- Agile
 - Product Development
-- Tech
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png 
 headerImage: false
 projects: true
