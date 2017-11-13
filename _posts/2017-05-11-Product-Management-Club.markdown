@@ -21,3 +21,6 @@ The idea for Product Management club was first developed after a couple of stude
 
 Below is our first Presentation to Indiana University students & faculty:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/zI6A0j9jSZpgXc" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LoganJastremski/intro-to-pm-82008553" title="Intro to PM" target="_blank">Intro to PM</a> </strong> from <strong><a href="//www.slideshare.net/LoganJastremski" target="_blank">Logan Jastremski</a></strong> </div>
+
+
+We've also brought in various Product Manager in the Industry to explain to students their first-hand experiences in how they broke into the role. These speakers are a great opportunity for students to explore any questions from Industry professionals.
