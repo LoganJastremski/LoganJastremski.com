@@ -3,7 +3,6 @@ title: "Path to Product Management"
 layout: post
 date: 2017-11-08 10:10
 tag:
-- Product Management
 - College
 - Startup
 - Product Development
