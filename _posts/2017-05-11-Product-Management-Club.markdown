@@ -34,15 +34,23 @@ Long term goals Goals:
 
 ---
 
+As undergraduate students of the School of Informatics, Computing, and Engineering, we are privileged to be supported by the faculty and the school regarding the flexibility of our degrees within Informatics and Computer Science. The curriculum pushes students to harness not only a great understanding of technology’s effect on society and us as individuals, but how we can implement these ideas across different industries. This perfectly embodies what product management is.
+
+<br>
+
 The idea for Product Management club was first developed after a couple of students came together to discuss how to increase Indiana University's representation in Industry within the PM field.  The idea quickly was formed into a reality, with the initial vision to teach students and professors about the role of a Product Manager with regular presentations on key Product Management terms and ideas such as Product vs Project Management, Product lifecycle, Agile mindset, Market research & analysis, and Customer focused development.
+
+<br>
+
+We've also brought in various Product Manager in the Industry to explain to students their first-hand experiences in how they broke into the role. These speakers are a great opportunity for students to explore any questions from Industry professionals.
+
 
 
 Below is our first Presentation to Indiana University students & faculty:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/zI6A0j9jSZpgXc" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LoganJastremski/intro-to-pm-82008553" title="Intro to PM" target="_blank">Intro to PM</a> </strong> from <strong><a href="//www.slideshare.net/LoganJastremski" target="_blank">Logan Jastremski</a></strong> </div>
 
-<br>
 
-We've also brought in various Product Manager in the Industry to explain to students their first-hand experiences in how they broke into the role. These speakers are a great opportunity for students to explore any questions from Industry professionals.
+
 
 
 
