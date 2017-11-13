@@ -43,6 +43,10 @@ The idea for Product Management club was first developed after a couple of stude
 
 <br>
 
+Product Management is one of the fastest growing knowledgeable professions, and one of the most challenging. The process of conceptualizing, developing, and shipping software products is one of the most challenging and rewarding professions you can choose.
+
+<br>
+
 We've also brought in various Product Manager in the Industry to explain to students their first-hand experiences in how they broke into the role. These speakers are a great opportunity for students to explore any questions from Industry professionals.
 
 
