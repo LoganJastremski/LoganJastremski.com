@@ -16,6 +16,24 @@ author: loganjastremski
 externalLink: false
 ---
 
+## Summary:
+<ul>
+Why?
+<li>To give employers a pipeline for pre-qualified PM talent.</li>
+<li>To help students get a job in Product Management, and find a community of like-minded individuals.</li>
+<li>School: Acts as the seed for a environment entrepreneurship, dynamic intellectualism, and diversity. </li>
+</ul>
+<br>
+<ul>
+Long term goals Goals:
+<li>Product Management Club has a large, recognizable Alumni base in the PM community</li>
+<li>Indiana School of Informatics, Computing, and Engineering is a program that is nationally recognized as a reason new students enter the school. </li>
+<li>Product Management Club members regularly receive job offers at top tech companies.</li>
+<li>Recruiters from top companies recognize the IU PM Club for its history of developing PM talent. </li>
+</ul>
+
+---
+
 The idea for Product Management club was first developed after a couple of students came together to discuss how to increase Indiana University's representation in Industry within the PM field.  The idea quickly was formed into a reality, with the initial vision to teach students and professors about the role of a Product Manager with regular presentations on key Product Management terms and ideas such as Product vs Project Management, Product lifecycle, Agile mindset, Market research & analysis, and Customer focused development.
 
 
@@ -26,19 +44,5 @@ Below is our first Presentation to Indiana University students & faculty:
 
 We've also brought in various Product Manager in the Industry to explain to students their first-hand experiences in how they broke into the role. These speakers are a great opportunity for students to explore any questions from Industry professionals.
 
-<br>
 
-Why?
-<ul>
-<li>To give employers a pipeline for pre-qualified PM talent.</li>
-<li>To help students get a job in PM, and find a community of like-minded individuals.</li>
-<li>School: Acts as the seed for a environment entrepreneurship, dynamic intellectualism, and diversity. </li>
-</ul>
-<br>
-<ul>
-Long term goals Goals:
-<li>The PMW has a large, recognizable Alumni base in the PM community</li>
-<li>SOIC, and program are nationally recognized as a reason new students enter the school. </li>
-<li>PM Club members regularly receive job offers at top tech companies </li>
-<li>Recruiters from top companies recognize the IU PM Club for its history of developing PM talent. </li>
-</ul>
+
