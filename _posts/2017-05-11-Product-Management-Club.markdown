@@ -16,4 +16,4 @@ author: loganjastremski
 externalLink: false
 ---
 
-test
+The idea for Product Management club was first developed after a couple of students came together to discuss how to increase Indiana University's representation in Industry within the PM field.  The idea quickly was formed into a reality, with the initial vision to teach students and professors about the role of a Product Manager with regular presentations on key Product Management terms and ideas such as Product vs Project Management, Product lifecycle, Agile mindset, Market research & analysis, and Customer focused development.
