@@ -18,7 +18,7 @@ externalLink: false
 
 ## Summary:
 
-####Why?
+#### Why?
 <ul>
 <li>To give employers a pipeline for pre-qualified PM talent.</li>
 <li>To help students get a job in Product Management, and find a community of like-minded individuals.</li>
@@ -26,7 +26,7 @@ externalLink: false
 </ul>
 <br>
 
-####Long term goals Goals:
+#### Long term goals Goals:
 <ul>
 <li>Product Management Club has a large, recognizable Alumni base in the PM community</li>
 <li>Indiana School of Informatics, Computing, and Engineering is a program that is nationally recognized as a reason new students enter the school. </li>
