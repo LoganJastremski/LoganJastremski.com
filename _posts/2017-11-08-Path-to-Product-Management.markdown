@@ -16,6 +16,6 @@ author: loganjastremski
 externalLink: false
 ---
 
-Our Vision - " At [Path to Product Management](http://pathtopm.com) our goal is to create a diverse community of college students to promote communal learning, showcase internship opportunities, and provide a platform with a supportive network to immerse within."
+Our Vision - " At [Path to Product Management](http://pathtopm.com) our goal is to create a diverse community of college students which promotes communal learning, showcases internship opportunities, and provides a supportive network allowing immersion.”
 
 Check back later for a update once we have our Community live!
