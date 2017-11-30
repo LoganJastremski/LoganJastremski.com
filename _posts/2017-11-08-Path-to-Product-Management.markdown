@@ -6,7 +6,7 @@ tag:
 - College
 - Startup
 - Product Development
-image: https://loganjastremski.com/assets/images/blog/path-to-pm-logo.png 
+image: https://loganjastremski.com/assets/images/blog/pathtopmlogo.jpg
 headerImage: True
 projects: true
 hidden: true # don't count this post in blog pagination
