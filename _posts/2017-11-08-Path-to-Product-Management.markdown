@@ -6,8 +6,8 @@ tag:
 - College
 - Startup
 - Product Development
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png 
-headerImage: false
+image: https://loganjastremski.com/assets/images/blog/path-to-pm-logo.png 
+headerImage: True
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Path to Product Management (Path to PM)’s vision is to create a diverse community of college students to promote communal learning, internship opportunities, and a supportive network to immerse within."
